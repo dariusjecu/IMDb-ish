@@ -66,7 +66,7 @@ const movies: Movie[] = [
         cover: Cover5,
         poster: Poster5,
         title: "The Menu",
-        trailer_id: "jerFRSQW9g8",
+        trailer_id: "C_uTkUGcHv4",
         rating: 7.2
     },
     {
@@ -74,7 +74,7 @@ const movies: Movie[] = [
         cover: Cover6,
         poster: Poster6,
         title: "All Quiet on the Western Front",
-        trailer_id: "jerFRSQW9g8",
+        trailer_id: "hf8EYbVxtCY",
         rating: 7.8
     },
     {
@@ -82,7 +82,7 @@ const movies: Movie[] = [
         cover: Cover7,
         poster: Poster7,
         title: "Avatar: The Way of Water",
-        trailer_id: "jerFRSQW9g8",
+        trailer_id: "d9MyW72ELq0",
         rating: 7.8
     },
     {
@@ -90,7 +90,7 @@ const movies: Movie[] = [
         cover: Cover8,
         poster: Poster8,
         title: "Glass Onion: A Knives Out Mystery",
-        trailer_id: "jerFRSQW9g8",
+        trailer_id: "gj5ibYSz8C0",
         rating: 7.2
     },
     {
@@ -98,7 +98,7 @@ const movies: Movie[] = [
         cover: Cover9,
         poster: Poster9,
         title: "Vikings",
-        trailer_id: "jerFRSQW9g8",
+        trailer_id: "Auzs95InJzo",
         rating: 8.5
     },
     {
@@ -106,7 +106,7 @@ const movies: Movie[] = [
         cover: Cover10,
         poster: Poster10,
         title: "Bullet Train",
-        trailer_id: "jerFRSQW9g8",
+        trailer_id: "EGeJczJvWns",
         rating: 7.3
     },
 ]
